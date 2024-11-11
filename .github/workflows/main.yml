@@ -60,4 +60,4 @@ jobs:
          if: always()
          with:
            name: docker-scout-findings
-           path: scout-report.sarif
+           path: scout-report.sariF
